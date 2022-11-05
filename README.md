@@ -1,1 +1,1 @@
-# space-game
+# ghost-runner
